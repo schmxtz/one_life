@@ -1,2 +1,2 @@
-# one_life
-One life - make it count
+# ONE LIFE
+You only have one life - make it count. Don't die or it's over.
